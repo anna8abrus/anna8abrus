@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NesChrome
+- 👀 I’m interested in html
+- 🌱 I’m currently learning css and lua
