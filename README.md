@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @NesChrome
-- 👀 I’m code in Html , CSS and little bit of Java and Lua
+- 👀 I code in Html , CSS and little bit of Java and Lua
