@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @NesChrome
-- 👀 I code in Html and CSS
-- 📚 Currently learning JS
+hi !
