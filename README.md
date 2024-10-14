@@ -5,4 +5,4 @@
 
 
 
-<h1 align = "center" ><a href=https://sw6.elbenwald.de/thumbnail/d0/e7/4d/1721947689/E1082846_6_1920x1920.jpg>:3</a> </h1>
+<h1 align = "center" ><a href=https://sw6.elbenwald.de/thumbnail/d0/e7/4d/1721947689/E1082846_6_1920x1920.jpg target = "_blank" >:3</a> </h1>
